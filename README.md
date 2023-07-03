@@ -40,10 +40,6 @@ The `evaluate` function performs the actual calculation based on the selected op
 
 The app's UI consists of a grid layout with buttons for digits (0-9), decimal point (.), and operation buttons (+, -, *, ÷). The output section displays the previous and current operands along with the selected operation.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - This project was inspired by this youtube video: https://www.youtube.com/watch?v=DgRrrOt0Vr8&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=37

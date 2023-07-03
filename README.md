@@ -17,7 +17,18 @@ This is a simple calculator application built using React.js. It allows users to
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/imohamnur/calculator-app.git
+
+2. Install the dependencies:
+
+   ```bash
+   cd calculator-app
+   npm install
+
+3. Run the application:
+
+   ```bash
+   npm start
 
 ## How It Works
 
@@ -29,19 +40,15 @@ The `evaluate` function performs the actual calculation based on the selected op
 
 The app's UI consists of a grid layout with buttons for digits (0-9), decimal point (.), and operation buttons (+, -, *, ÷). The output section displays the previous and current operands along with the selected operation.
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- This project was inspired by [Insert Source of Inspiration]
+- This project was inspired by this youtube video: https://www.youtube.com/watch?v=DgRrrOt0Vr8&list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK&index=37
 - [React](https://reactjs.org) - A JavaScript library for building user interfaces.
 
 ## Author
 
-[Your Name](https://github.com/your-username)
+Isaac Mohammed Nur (https://github.com/imohamnur)

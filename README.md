@@ -1,4 +1,4 @@
-# Calculator App
+# Calculator App React
 
 This is a simple calculator application built using React.js. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
@@ -29,7 +29,7 @@ This is a simple calculator application built using React.js. The calculator all
 
    ```bash
    npm start
-
+   
 ## How It Works
 
 The calculator app uses a `useReducer` hook from React to manage the state of the calculator. The state includes the current operand, previous operand, and the selected operation.

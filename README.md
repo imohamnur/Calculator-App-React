@@ -23,11 +23,10 @@ This is a simple calculator application built using React.js. The calculator all
    ```bash
    git clone https://github.com/imohamnur/calculator-app.git
 
-2. Install the dependencies:
+2. CD into directory:
 
    ```bash
    cd calculator-app
-   npm install
 
 3. Run the application:
 

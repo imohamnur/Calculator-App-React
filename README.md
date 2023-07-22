@@ -2,6 +2,10 @@
 
 This is a simple calculator application built using React.js. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Preview
+
+![calculator-pic](https://github.com/imohamnur/calculator-app-React/assets/135744887/36778cd7-ea6e-4d83-98de-a4f3f38bf1dd)
+
 ## Features
 
 - Addition (+)
